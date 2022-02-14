@@ -1,0 +1,4 @@
+Sensor	KEYWORD1
+pin	KEYWORD2
+avgRead	KEYWORD2
+setAVG	KEYWORD2
